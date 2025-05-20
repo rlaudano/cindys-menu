@@ -1,5 +1,5 @@
-/* Target menu description */
-.item .description.text {
+#singleplatform .menus .menu .section .items > .description {
   text-align: center !important;
   display: block !important;
 }
+
