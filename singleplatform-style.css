@@ -1,7 +1,8 @@
-#singleplatform-menu .sp-menu-description,
-#singleplatform-menu .sp-section-description,
-#singleplatform-menu .sp-item-description {
+.sp-menu-description,
+.menu-description,
+.sp-section-description,
+.sp-item-description {
   text-align: center !important;
   margin: 0 auto !important;
-  width: 100%;
+  width: 100% !important;
 }
