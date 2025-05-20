@@ -3,8 +3,9 @@
 .sp-menu-description,
 .menu-description,
 .item-description,
-.section-description {
+.section-description,
+div[data-display_menu] .sp-item-description {
   text-align: center !important;
-  margin: 0 auto !important;
   display: block !important;
 }
+
