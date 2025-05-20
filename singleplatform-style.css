@@ -1,10 +1,4 @@
-.sp-item-description,
-.sp-section-description,
-.sp-menu-description,
-.menu-description,
-.item-description,
-.section-description,
-div[data-display_menu] .sp-item-description {
+.description {
   text-align: center !important;
   display: block !important;
 }
