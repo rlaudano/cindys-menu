@@ -1,4 +1,5 @@
-.description.text {
+/* Target menu description */
+.item .description.text {
   text-align: center !important;
+  display: block !important;
 }
-
