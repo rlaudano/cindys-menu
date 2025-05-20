@@ -1,3 +1,10 @@
-body {
+.sp-item-description,
+.sp-section-description,
+.sp-menu-description,
+.menu-description,
+.item-description,
+.section-description {
   text-align: center !important;
+  margin: 0 auto !important;
+  display: block !important;
 }
