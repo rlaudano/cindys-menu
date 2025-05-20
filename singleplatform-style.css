@@ -2,12 +2,6 @@
 #singleplatform-menu .sp-section-description,
 #singleplatform-menu .sp-item-description {
   text-align: center !important;
-}
-
-/* Optional: If the widget injects its own font sizes or padding, you can override those too */
-#singleplatform-menu .sp-menu-description,
-#singleplatform-menu .sp-section-description,
-#singleplatform-menu .sp-item-description {
   margin: 0 auto !important;
   width: 100%;
 }
